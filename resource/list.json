@@ -1,0 +1,31 @@
+{
+   "image":[
+      {
+         "id":"pod1",
+         "src":"img/9.jpg",
+         "width": "240px",
+         "height": "174px",
+         "floatstyle" : "left",
+         "bgposition": "left",
+         "links": "https://github.com/darklycan/"
+      },
+      {
+         "id":"pod2",
+         "src":"img/10.jpg",
+         "width": "240px",
+         "height": "174px",
+         "floatstyle" : "left",
+         "bgposition": "right",
+         "links" : "https://github.com/darklycan/"
+      },
+      {
+         "id":"pod3",
+         "src":"img/13.jpg",
+         "width": "240px",
+         "height": "174px",
+         "floatstyle" : "left",
+         "bgposition": "left",
+         "links" : "https://github.com/darklycan/"
+      }
+   ]
+}
